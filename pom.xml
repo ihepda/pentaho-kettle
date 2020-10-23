@@ -6,7 +6,7 @@
 
   <groupId>org.pentaho.di</groupId>
   <artifactId>pdi</artifactId>
-  <version>9.0.0.0-423-PDI-18996</version>
+  <version>9.0.0.0-423</version>
   <packaging>pom</packaging>
 
   <name>Pentaho Data Integration</name>
