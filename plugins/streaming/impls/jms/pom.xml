@@ -23,7 +23,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>pentaho-streaming-jms-plugin</artifactId>
-  <version>9.0.0.0-423</version>
+  <version>9.0.0.0-423-PDI-18996</version>
   <packaging>bundle</packaging>
 
 
